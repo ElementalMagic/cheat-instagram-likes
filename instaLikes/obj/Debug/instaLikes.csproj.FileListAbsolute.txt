@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\лойсы_инст.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\instaLikes.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\bin\Debug\instaLikes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\bin\Debug\instaLikes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\bin\Debug\instaLikes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\instaLikes.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\instaLikes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\instaLikes.pdb
+C:\Users\User\Documents\GitHub\cheat-instagram-likes\instaLikes\bin\Debug\instaLikes.exe.config
+C:\Users\User\Documents\GitHub\cheat-instagram-likes\instaLikes\obj\Debug\instaLikes.exe
+C:\Users\User\Documents\GitHub\cheat-instagram-likes\instaLikes\obj\Debug\instaLikes.pdb

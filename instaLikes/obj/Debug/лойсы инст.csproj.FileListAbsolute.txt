@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\bin\Debug\лойсы инст.exe.config
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\bin\Debug\лойсы инст.exe
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\bin\Debug\лойсы инст.pdb
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы инст.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы_инст.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы_инст.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы инст.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы инст.exe
+c:\users\user\documents\visual studio 2015\Projects\лойсы инст\лойсы инст\obj\Debug\лойсы инст.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\bin\Debug\лойсы инст.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\лойсы инст.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\лойсы инст — копия\instaLikes\obj\Debug\лойсы инст.pdb
